@@ -41,3 +41,4 @@ Not included are dashboards that show general SARS-CoV-2 statistics, e.g., the n
 ## Other link collections
 * [CDC SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 * [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+* [pha4ge/pipeline-resources](https://github.com/pha4ge/pipeline-resources#sars-cov-2-resources)
