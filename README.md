@@ -11,6 +11,7 @@ Not included are dashboards that show general SARS-CoV-2 statistics, e.g., the n
 * [Nextstrain](https://nextstrain.org/)
 * [UShER](https://genome.ucsc.edu/cgi-bin/hgPhyloPlace), place sequences in a global phylogenetic tree
 * [Gensplore MN908947](https://gensplore.theo.io/?gb=%2Fsequence.gb), browse the reference genome
+* [Codon2Nucelotide](https://codon2nucleotide.theo.io/), convert from codon position to genomic coordinates or vice versa
 * [Cov2Tree](https://cov2tree.org/)
 
 ## Geographic distribution of mutations and lineages
